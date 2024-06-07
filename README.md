@@ -68,7 +68,7 @@ contract MyToken {
 Compile the code. Once compiled,
 
 1. Go to the 'Deploy & Run Transactions' tab on the left.
-2. click Deploy.
+2. Click on Deploy.
 
 After deploying, we can interact with the contract. 
 
