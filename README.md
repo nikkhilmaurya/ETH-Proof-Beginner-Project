@@ -15,7 +15,7 @@ This Solidity contract implements basic functionalities for minting and burning 
 
 ### Executing program
 
-1. To run this program, you can use Remix at https://remix.ethereum.org/.
+1. To run this program, we can use Remix at https://remix.ethereum.org/.
 2. Create a new file by clicking on the "+" icon in the left-hand sidebar.
 3. Save the file with a .sol extension 
 
@@ -65,16 +65,12 @@ contract MyToken {
 }
 ```
 
-To compile the code,
-1. Go to the 'Solidity Compiler' tab on the left.
-2. Set the Compiler to 0.8.18 or a compatible version, and click Compile
-
-Once compiled,
+Compile the code. Once compiled,
 
 1. Go to the 'Deploy & Run Transactions' tab on the left.
 2. click Deploy.
 
-After deploying, you can interact with the contract. 
+After deploying, we can interact with the contract. 
 
 ## Authors
 
